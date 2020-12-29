@@ -1,0 +1,53 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: #34837c;
+    font-family: sans-serif;
+    
+}
+.login-form
+{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+.login-form h1
+{
+    
+    color: #34837c;
+}
+.input-box
+{
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+    border: 1px solid #999;
+    outline: none;
+
+}
+.login-btn
+{
+    border-radius: 5px;
+    color:  white;
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #34837c;
+
+}
+.login-form a
+{
+    text-decoration: none;
+    color: #34837c;
+}
